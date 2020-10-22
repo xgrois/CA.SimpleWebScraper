@@ -20,6 +20,7 @@ namespace CA.SimpleWebScraper
                 Console.Write("Please, enter a city (boston, newyork, chicago, etc.): ");
                 city = Console.ReadLine().ToLower() ?? String.Empty;
 
+                // Category
                 Console.Write("Please, enter a category (cta, ata, boo, etc.): ");
                 category = Console.ReadLine().ToLower() ?? String.Empty;
 
