@@ -8,7 +8,7 @@ namespace CA.SimpleWebScraper
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("::: BASIC WEB SCRAPER FOR CRAIGLIST.ORG :::\n\r");
+            Console.WriteLine("::: BASIC WEB SCRAPER FOR CRAIGSLIST.ORG :::\n\r");
 
             string city, category;
             bool exit = false;
